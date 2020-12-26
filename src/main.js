@@ -4,7 +4,10 @@
 import DefaultLayout from '~/layouts/Default.vue'
 import VueScrollTo from 'vue-scrollto'
 import VueFuse from 'vue-fuse'
-import Unicon from 'vue-unicons'
+// import Unicon from 'vue-unicons'
+import Unicon from 'vue-unicons/dist/vue-unicons-ssr.common.js'
+import 'vue-unicons/dist/vue-unicons-ssr.css'
+
 
 import {
     uniFacebookFMonochrome,
