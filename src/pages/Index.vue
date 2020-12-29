@@ -11,7 +11,7 @@
       <!-- Laurent -->
       <div class="relative w-full md:w-1/3 px-8 py-8">
         <div class="text-center mb-6">
-          <g-image src="../../static/laurent.jpg" alt="Laurent" />
+          <g-image class="mx-auto min-w-full" src="../../static/laurent.jpg" alt="Laurent" />
           <div class="font-bold text-xl pt-5 pb-3 text-royalblue-900 leading-tight">Laurent</div>
           <p class="mb-3"><u><a target="_blank" href="https://www.instagram.com/laurent_untereiner/">laurent.untereiner.com</a></u></p>
           <p class="text-lg">Ultra-trailer</p>
@@ -28,7 +28,7 @@
       <!-- Thomas -->
       <div class="relative w-full md:w-1/3 px-8 py-8">
         <div class="text-center mb-6">
-          <g-image src="../../static/thomas.jpg" alt="Thomas" />
+          <g-image class="mx-auto min-w-full" src="../../static/thomas.jpg" alt="Thomas" />
           <div class="font-bold text-xl pt-5 pb-3 text-royalblue-900 leading-tight">Thomas</div>
           <p class="mb-3"><u><a target="_blank" href="https://www.instagram.com/ntrnr/">thomas.untereiner.com</a></u></p>
           <p class="text-lg">Architect @<a target="_blank" href="http://www.steinmetzdemeyer.com/">STDM</a></p>
@@ -43,7 +43,7 @@
       <!-- Romain -->
       <div class="relative w-full md:w-1/3 px-8 py-8">
         <div class="text-center mb-6">
-          <g-image src="../../static/romain.jpg" alt="Romain" />
+          <g-image class="mx-auto min-w-full" src="../../static/romain.jpg" alt="Romain" />
           <div class="font-bold text-xl pt-5 pb-3 text-royalblue-900 leading-tight">Romain</div>
           <p class="mb-3"><u><a target="_blank" href="https://romain.untereiner.com">romain.untereiner.com</a></u></p>
           <p class="text-lg">Founder @<a target="_blank" href="https://www.kamina.io/">Kamina.io</a></p>
