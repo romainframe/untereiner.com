@@ -14,7 +14,7 @@
           <g-image src="../../static/laurent.jpg" alt="Laurent" />
           <div class="font-bold text-xl pt-5 pb-3 text-royalblue-900 leading-tight">Laurent</div>
           <p class="mb-3"><u><a target="_blank" href="https://www.instagram.com/laurent_untereiner/">laurent.untereiner.com</a></u></p>
-          <p class="text-lg">Utra-trailer</p>
+          <p class="text-lg">Ultra-trailer</p>
           <p class="text-lg">UX Designer @<a target="_blank" href="http://www.reborn.lu/">REBORN</a></p>
         </div>
         <div class="text-center absolute inset-x-0 bottom-0">
